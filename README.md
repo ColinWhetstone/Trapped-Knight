@@ -6,6 +6,6 @@ You can interactively view the full Trapped Knight visualization here:
 
 **https://colinwhetstone.github.io/Trapped-Knight/**
 
-This site animates the knight’s greedy path step by step on an infinite spiral-numbered chessboard, showing movement, coloring, board, and the final trapped state. (press space to pause and + to make the animation faster)
+This site animates the knight’s greedy path step by step on an infinite spiral numbered chessboard, showing movement, coloring, board, and the final trapped state. (press space to pause and + to make the animation faster)
 
 Here's the youtube video that inspired this: https://www.youtube.com/watch?v=RGQe8waGJ4w
